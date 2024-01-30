@@ -1,6 +1,6 @@
 /* GOOGLE FONTS */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
-@font-face { font-family: Dogica_Pixel; src: url('/assets/font/Dogica_Pixel.ttf'); } 
+@font-face { font-family: Dogica_Pixel; src: url('../font/Dogica_Pixel.ttf'); } 
 
 /* VARIABLES CSS */
 :root {
